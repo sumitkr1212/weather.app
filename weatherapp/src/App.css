@@ -1,0 +1,67 @@
+body{
+  background-image: url(./backgrounfcloud.avif);
+  flex-wrap: wrap;
+}
+
+.container{
+  height:550px;
+  width: 450px;
+  border-radius: 2%;
+  margin-left: 35vw;
+  border: 1px solid black;
+  background-position: center;
+  background-size: cover;
+}
+
+.date{
+  margin-left: 160px;
+
+
+}
+
+.content{
+  /* padding-left: 130px; */
+}
+
+.cityname{
+  text-align: center;
+  /* margin-top: 40px; */
+  font-size: 4em;
+  /* padding-left: 25%; */
+  
+  color: whitesmoke;
+}
+
+.degree{
+  margin-top: 0;
+  font-size: 4em;
+  /* font-size: 20px; */
+  margin-left: 160px;
+  font-weight: 900;
+}
+
+.input{
+  height: 40px;
+  padding-left: 20px;
+  margin-left: 30px;
+  font-size: 1.3em;
+}
+
+.btn{
+  margin-left: 30px;
+  font-size: 20px;
+}
+
+.description{
+  margin-left: 180px;
+  font-size: 20px;
+
+}
+
+
+
+
+
+
+
+
